@@ -49,7 +49,7 @@
 ### 🌐 Portfolio
 
 <p align="center">
-  <a href="https://nikkibernardo.github.io/nikki-dev-portfolio/" target="_blank" 
+  <a href="https://nikkibernardo.github.io/nikki-dev/" target="_blank" 
      style="display: inline-block; padding: 6px 12px; background-color: #22c55e; color: white; font-weight: 600; border-radius: 5px; text-decoration: none; font-family: Arial, sans-serif;">
     Visit Portfolio
   </a>
