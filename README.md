@@ -49,9 +49,11 @@
 ### 🌐 Portfolio
 
 <p align="center">
-  <a href="https://nikkibernardo.github.io/nikki-dev/" target="_blank" 
-     style="display: inline-block; padding: 6px 12px; background-color: #22c55e; color: white; font-weight: 600; border-radius: 5px; text-decoration: none; font-family: Arial, sans-serif;">
-    Visit Portfolio
+  <a href="https://nikkibernardo.github.io/nikki-dev/" target="_blank" rel="noopener noreferrer"
+     style="display: inline-block; padding: 10px 20px; background-color: #915EFF; color: white; font-weight: 600; border-radius: 6px; text-decoration: none; font-family: 'Segoe UI', sans-serif; transition: all 0.3s ease;"
+     onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 12px rgba(145, 94, 255, 0.3)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
+    Visit Portfolio →
   </a>
 </p>
 <!--
