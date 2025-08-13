@@ -45,16 +45,6 @@
 
 ---
 
-### 📊 Design + Code Philosophy
-```js
-const myApproach = () => {
-  return {
-    design: ["User Research", "Wireframing", "Prototyping"],
-    dev: ["Mobile-First", "Component-Based", "Performance"],
-    nonNegotiables: ["Accessibility", "Responsive", "Maintainable"]
-  };
-};
-
 
 ### 🌐 Portfolio
 
