@@ -6,9 +6,9 @@
 <h1 align="center"></> Hello, I'm Nikki Bernardo</h1>
 <h3 align="center">Web Developer | UI/UX Designer | User-Centered Problem Solver</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=915EFF&center=true&vCenter=true&lines=Clean+Code+First;Design+With+Purpose;Build+For+Humans;Mobile+to+Web+Seamless;Pixel-Perfect+Interactions" alt="Typing Animation" />
-</p>
+</p> -->
 
 ---
 
