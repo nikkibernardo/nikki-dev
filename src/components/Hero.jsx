@@ -25,7 +25,7 @@ const Hero = () => {
         </span>
       </h1>
       <p className={` text-[#915EFF] text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl transition-all duration-300`}>
-        A Web Designner and Developer <br className="hidden sm:inline-block" />
+        Software Developer <br className="hidden sm:inline-block" />
       </p>
       <div className="flex flex-row items-center justify-center lg:justify-start mt-8 gap-6 text-gray-300">
         <a 
